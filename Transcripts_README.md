@@ -1,4 +1,9 @@
 # Project 3 - Transcripts
+
+#Client Specs - trello (Test Driven Development)
+For each User Story in the Selected for Development column, you MUST have unit tests written BEFORE any application logic is written
+(Notes to self: - makes tests per each feature Transcripts wants to explore)
+
 ## SPECIFICATIONS (fill in)
 - ### SYNTAX:
    - IDE - IntelliJ
