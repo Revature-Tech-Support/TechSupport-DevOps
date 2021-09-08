@@ -1,8 +1,4 @@
 # Project 3 - Transcripts
-Files and Transcripts:
-- IntelliJ for IDE
-
-
 ## SPECIFICATIONS (fill in)
 - ### SYNTAX:
    - IDE - IntelliJ
