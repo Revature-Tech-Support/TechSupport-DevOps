@@ -3,14 +3,29 @@ Files and Transcripts:
 - IntelliJ for IDE
 
 
-## SPECIFICATIONS
-- ### THEME: Fintech - Cybersecurity
+## SPECIFICATIONS (fill in)
+- ### SYNTAX:
+   - IDE - IntelliJ
 
-- ### GOAL: A program capable of implementing a few simple security methonds on bank account data
+Java Syntax:
+- Google Standards
+- Lombok
+- Spring Boot
+- JUnit 5
+- Logback classic (SLF4J)
+
+IntelliJ Plugin Recommendations:
+- Save Actions
+- google-java-format
+- 
+
+- ### THEME:
+
+- ### GOAL:
  
-- ### USER STORIES: ???
+- ### USER STORIES: (check out example)
 
-## PROGRAMS
+## PROGRAMS(revise)
 - ### Java
 - ### Maven
 - ### JUnit
@@ -20,6 +35,10 @@ Files and Transcripts:
 - ### Spring
 - ### Amazon Web Services
 
+# Trello description
+Uploading, storing, and sending files and message transcripts on a user by user and chat by chat basis
+
+# 9/8 Files/Transcripts Mtg Notes:
 Anyway I did just have a chat with the comms and database team leads individually.
 Today's goal is to just research how spring-webflux handles file transfer and what we need for it. No real code requirements for today, just do research for tomorrow. Other teams are planning on laying out some of the structural stuff we'll be having to implement. Though I'll mention what we planned on for the implementation. 
 
