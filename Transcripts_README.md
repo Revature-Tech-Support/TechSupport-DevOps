@@ -30,10 +30,6 @@ Uploading, storing, and sending files and message transcripts on a user by user 
 
 
 ## Technology: (revise)
-- IDE - IntelliJ
-   - Plugin Recommendations
-      - Save Actions
-      - google-java-format
 - Java
    - Google Standards
    - Lombok
