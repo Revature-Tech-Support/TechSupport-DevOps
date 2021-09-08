@@ -29,7 +29,7 @@ Uploading, storing, and sending files and message transcripts on a user by user 
 - So that [benefit]
 
 
-## TECHNOLOGY: (revise)
+## Technology: (revise)
 - IDE - IntelliJ
    - Plugin Recommendations
       - Save Actions
