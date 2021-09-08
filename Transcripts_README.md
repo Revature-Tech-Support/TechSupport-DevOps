@@ -1,43 +1,55 @@
-# Project 3 - Transcripts
+# TechSupport_Transcripts
+Repository for systems and applications relating to the transcript functionality of the tech support application.
 
-#Client Specs - trello (Test Driven Development)
-For each User Story in the Selected for Development column, you MUST have unit tests written BEFORE any application logic is written
-(Notes to self: - makes tests per each feature Transcripts wants to explore)
 
-## SPECIFICATIONS (fill in)
-- ### SYNTAX:
-   - IDE - IntelliJ
+## Client Specifications:
+- Test Driven Development (TDD)
+   - "For each User Story in the Selected for Development column, you MUST have unit tests written BEFORE any application logic is written"
 
-Java Syntax:
-- Google Standards
-- Lombok
-- Spring Boot
-- JUnit 5
-- Logback classic (SLF4J)
 
-IntelliJ Plugin Recommendations:
-- Save Actions
-- google-java-format
-- 
-
-- ### THEME:
-
-- ### GOAL:
- 
-- ### USER STORIES: (check out example)
-
-## PROGRAMS(revise)
-- ### Java
-- ### Maven
-- ### JUnit
-- ### SLF4J
-- ### Reactor Netty
-- ### Cassandra
-- ### Spring
-- ### Amazon Web Services
-
-# Trello description
+## Goal: (revise to just Transcripts)
 Uploading, storing, and sending files and message transcripts on a user by user and chat by chat basis
+- all kinds of media formats can be uploaded and stored (pdf, video, markdown, etc.).
+
+
+## User Stories: (revise)
+### [user]
+- As a [user]
+- I want [functionality]
+- So that [benefit]
+
+### [user]
+- As a [user]
+- I want [functionality]
+- So that [benefit]
+
+### [user]
+- As a [user]
+- I want [functionality]
+- So that [benefit]
+
+
+## TECHNOLOGY: (revise)
+- IDE - IntelliJ
+   - Plugin Recommendations
+      - Save Actions
+      - google-java-format
+- Java
+   - Google Standards
+   - Lombok
+   - Spring Boot
+   - JUnit 5
+   - Logback classic (SLF4J)
+   - (Added beyond this point)
+   - Maven
+   - Reactor Netty
+   - Cassandra
+   - Amazon Web Services
+
+
+
+----------------------
+
 
 # 9/8 Files/Transcripts Mtg Notes:
 Anyway I did just have a chat with the comms and database team leads individually.
