@@ -31,6 +31,14 @@ Feature: Frontend Interactivity Testing
 		And input('input[name=loginPassword]','testPassword')
 		When submit().click("input[name='handleRegister'")
 		Then match html(' ##Failure message message goes here')
+		#Open the chatbox and wait for the messegeBox to load
+		When click('input[name=chatBox]')
+		And def messageBox = waitFor('input[name=messageInput])
+		#Send a message
+		When messageBox.input('Hello')
+		When submit().click("input[name='handleSend']")
+		#Make sure that the status is OK
+		Then status 200
 		
 
 
