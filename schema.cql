@@ -16,6 +16,7 @@ CREATE TABLE IF NOT EXISTS Issue (
     openedBy INT,
     closedBy INT,
     openTime TIMESTAMP,
+    reviewTime TIMESTAMP,
     closedTime TIMESTAMP,
     inProgress BOOLEAN,
     PRIMARY KEY (issueID)
