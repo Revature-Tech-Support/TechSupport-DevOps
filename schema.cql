@@ -37,5 +37,5 @@ messageID UUID,
 message TEXT,
 postedBy UUID,
 postTime TIMESTAMP,
-PRIMARY KEY (messageID, chatID)
+PRIMARY KEY (messageID)
 );
