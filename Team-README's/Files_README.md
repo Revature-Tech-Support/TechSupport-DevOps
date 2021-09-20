@@ -7,25 +7,30 @@ Repository for systems involving the file transfer protocol and file handling of
 
 
 ## Goal:
-[insert]
+Uploading, storing, and sending files on a user by user and chat by chat basis with all kinds of media formats (pdf, video, markdown, etc.).
 
 
 ## User Stories:
-### [user]
-- As a [user]
-- I want [functionality]
-- So that [benefit]
+### User
+- As a User
+- I want file-uploading features
+- So that I can upload files to better convey my technical issue to Tech Support
 
-### [user]
-- As a [user]
-- I want [functionality]
-- So that [benefit]
-
-### [user]
-- As a [user]
-- I want [functionality]
-- So that [benefit]
+### Tech Support
+- As a Tech Support
+- I want file-uploading features
+- So that I can receive files from User to better understand the technical issue and to send files back as necessary
 
 
 ## Technology:
-[insert]
+- Java
+   - Google Standards
+   - Lombok
+- Spring Boot
+- JUnit 5
+- Logback classic (SLF4J)
+- Maven
+- Reactor Netty
+- Cassandra
+- Spring Webflux
+- Amazon Web Services
