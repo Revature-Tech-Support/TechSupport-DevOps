@@ -8,7 +8,7 @@ Also used to store files that are important to the overall structure and design 
 https://docs.google.com/document/d/1MY9RURsUfVchIRmpoyIUv432dqJWUXVImTPdfQw7jnM/edit?usp=sharing
 
 ## Setting up Cassandra
-To run Cassandra locally, make sure to have Docker install on your machine, then run the following command:
+To run Cassandra locally, make sure to have Docker installed on your machine, then run the following command:
 
 ` docker run --rm --name cass -it -p 9042:9042 cassandra`
 
