@@ -10,8 +10,8 @@ isTechAgent BOOLEAN,
 PRIMARY KEY (userID)
 );
 
-CREATE TABLE IF NOT EXISTS Issue (
-issueID UUID,
+CREATE TABLE IF NOT EXISTS Issues (
+issueId UUID,
 issueTitle TEXT,
 openedBy UUID,
 closedBy UUID,
@@ -19,7 +19,8 @@ openTime TIMESTAMP,
 reviewTime TIMESTAMP,
 closedTime TIMESTAMP,
 inQueue BOOLEAN,
-PRIMARY KEY (issueID, closedBy)
+reviewed BOOLEAN
+PRIMARY KEY (inQueue, openTime)
 );
 
 CREATE TABLE IF NOT EXISTS Chat (
