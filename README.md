@@ -4,8 +4,13 @@ DevOps file store and requests.
 Please create a new issue for any requests like resources (AWS servers, bugs, etc.) at your lesiure.
 Also used to store files that are important to the overall structure and design of the project.
 
-## Link to Endpoints
-https://docs.google.com/document/d/1MY9RURsUfVchIRmpoyIUv432dqJWUXVImTPdfQw7jnM/edit?usp=sharing
+## Useful Links
+- [Endpoints](https://docs.google.com/document/d/1MY9RURsUfVchIRmpoyIUv432dqJWUXVImTPdfQw7jnM/edit?usp=sharing)
+- [SDD](https://docs.google.com/document/d/1Bssqc1anh6V00dijl4JuMsMLzWi6ArOV2jsJ_wCtSkY/edit?usp=sharing)
+- [SRS](https://docs.google.com/document/d/1Q_I-1qOlVLi0FTBlXBUIBwEph697N36itH0upCEeg78/edit?usp=sharing)
+- [PowerPoint Presenation](https://revaturetech-my.sharepoint.com/:p:/g/personal/terry_light_revature_net/EXX9QmKSq11AhhHZ7g5s7XwBH2IDXjkUIuhjdLkiUIXk7Q?e=NeHfSF)
+
+
 
 ## Setting up Cassandra
 To run Cassandra locally, make sure to have Docker installed on your machine, then run the following command:
